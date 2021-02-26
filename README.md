@@ -6,7 +6,7 @@
 <a href="https://github.com/ola-pt">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ola-pt&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,0654a6,42b0ff&title_color=fff&text_color=fff&icon_color=fff"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ola-pt&layout=compact&langs_count=4&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ola-pt&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ola-pt&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
