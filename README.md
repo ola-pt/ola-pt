@@ -13,6 +13,8 @@ Hi there 👋🏿
  </a>
 </p>
 
+<!--
+**hola-there/hola-there** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h2 align="center">
 🤝🏻 &nbsp;Connect with Me
@@ -20,8 +22,7 @@ Hi there 👋🏿
   
 <a align="center" href="tel:443-906-3830">📱 Click to Call! 📱</a>
 
-<!--
-**hola-there/hola-there** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
