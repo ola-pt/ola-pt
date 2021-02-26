@@ -1,7 +1,24 @@
-### Hi there 👋
+### Hi there 👋🏿
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ola-pt">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ola-pt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ola-pt&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+
+<h2 align="center">
+🤝🏻 &nbsp;Connect with Me
+</h2>
+  
+<p align="center">
+  <a href="tel:443-906-3830"></a>
+</p>
 
 <!--
-**ola-pt/ola-pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hola-there/hola-there** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
