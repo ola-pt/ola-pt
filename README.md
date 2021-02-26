@@ -17,7 +17,7 @@
 </h2>
   
 <p align="center">
-  <a href="tel:443-906-3830">📱</a>
+  <a href="tel:443-906-3830">📱 Click to Call! 📱</a>
 </p>
 
 <!--
