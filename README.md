@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
 Hi there 👋🏿
-</h1>
+</h3>
 
 <h2 align="center">
  ⚙️ &nbsp;GitHub Analytics
