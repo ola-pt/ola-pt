@@ -1,8 +1,8 @@
 ### Hi there 👋🏿
 
-<p align="center">
-### ⚙️ &nbsp;GitHub Analytics
-</p>
+<h2 align="center">
+ ⚙️ &nbsp;GitHub Analytics
+</h2>
 
 <a href="https://github.com/ola-pt">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ola-pt&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,0654a6,42b0ff&title_color=fff&text_color=fff&icon_color=fff"/>
