@@ -16,7 +16,7 @@
 🤝🏻 &nbsp;Connect with Me
 </h2>
   
->  <a align="center" href="tel:443-906-3830">📱 Click to Call! 📱</a>
+<a align="center" href="tel:443-906-3830">📱 Click to Call! 📱</a>
 
 <!--
 **hola-there/hola-there** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
