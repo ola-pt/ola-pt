@@ -6,8 +6,7 @@
 <a href="https://github.com/ola-pt">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ola-pt&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,0654a6,42b0ff&title_color=fff&text_color=fff&icon_color=fff"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ola-pt&layout=compact&langs_count=4&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ola-pt&langs_count=8&theme=tokyonightinclude_all_commits=true&count_private=true"/>
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ola-pt&langs_count=8)](https://github.com/ola-pt/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ola-pt&custom_title=My%20Most%20Used%20Languages&langs_count=8&theme=tokyonightinclude_all_commits=true&count_private=true"/>
 </a>
 </p>
 
