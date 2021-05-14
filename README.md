@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/github/ola-pt/ola-pt.svg)](https://wakatime.com/badge/github/ola-pt/ola-pt)
 <h3 align="center">
 Hi there 👋🏿
 </h3>
